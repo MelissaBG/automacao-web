@@ -1,4 +1,4 @@
-package org.automcao;
+package org.automacao;
 
 public class Main {
     public static void main(String[] args) {
